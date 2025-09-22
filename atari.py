@@ -1,6 +1,6 @@
 import turtle
 t=turtle.Pen()
-t.speed(0)
+t.speed(3)
 t.goto(200,0)
 t.goto(200,300)
 t.goto(0,300)
@@ -81,6 +81,7 @@ t.rt(90)
 t.fd(25)
 t.rt(90)
 t.fd(30)
+
 
 
 
